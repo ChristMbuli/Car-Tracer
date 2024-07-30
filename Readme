@@ -1,0 +1,43 @@
+Application de Gestion Scolaire
+Cette application de gestion d'école fournit une plateforme centralisée pour administrer les étudiants, les professeurs
+et les cours. Elle permet aux administrateurs de gérer les inscriptions des nouveaux étudiants et professeurs, de créer
+et de planifier des cours, et de générer des cartes d'étudiant pour chaque nouvel étudiant inscrit.
+
+Fonctionnalités
+Inscription des Étudiants et Professeurs : Les administrateurs peuvent facilement inscrire de nouveaux étudiants et
+professeurs dans le système.
+
+Cartes d'Étudiant : Une fois inscrits, chaque étudiant se voit attribuer une carte d'étudiant générée par le site, qui
+peut être utilisée pour identifier l'étudiant dans l'école.
+
+Gestion des Cours : Les administrateurs peuvent ajouter, modifier et supprimer des cours. Ils peuvent également
+planifier des leçons pour chaque cours.
+
+Accès aux Cours : Les étudiants doivent se connecter à leur compte pour accéder aux cours et aux leçons. Ils ont la
+possibilité de télécharger les leçons pour un accès hors ligne.
+
+Utilisation
+Inscription : Les nouveaux étudiants et professeurs doivent s'inscrire via l'interface d'inscription fournie par
+l'application.
+
+Connexion : Les étudiants peuvent accéder à leur compte en utilisant leurs identifiants de connexion.
+
+Navigation : Une fois connectés, les étudiants peuvent naviguer dans l'interface utilisateur pour accéder aux cours
+disponibles et aux leçons associées.
+
+Téléchargement de Leçons : Les étudiants ont la possibilité de télécharger les leçons pour un accès hors ligne, ce qui
+est pratique pour l'étude à domicile.
+
+
+
+
+Contribution
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez consulter le fichier
+CONTRIBUTING.md pour obtenir des instructions détaillées sur la manière de contribuer.
+
+Auteurs
+Christ Mbuli - Développeur principal
+christmb017@gmail.com
+
+Licence
+Ce projet est sous licence MIT.

@@ -1,0 +1,68 @@
+.header {
+    width: 127vh;
+    height: 80vh;
+    background-color: white;
+    /* box-shadow: 0 1px 10px rgb(146 161 176 / 50%); */
+    /* border-radius: 10px; */
+    background-image: url(../images/empty2.png);
+    background-size: cover;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box-1{
+    margin-top: -18rem;
+}
+
+.box-1 img{
+    width: 190px;
+    height: 190px;
+}
+.box-2{
+    margin-top: -14rem;
+}
+.box-2 .fname{
+    margin-left: 15rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #04496B;
+}
+
+.box-2 .lname{
+    margin-left: 15rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #04496B;
+}
+
+.box-2 .depart{
+    margin-left: 16rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #04496B;
+}
+.box-2 .birth{
+    margin-left: 16rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #04496B;
+}
+
+.box-3{
+    margin-top: -18rem;
+    margin-left: -2rem;
+}
+
+.box-3 img{
+    width: 100px;
+}
+
+.container-3{
+    margin-top: -3.7rem;
+    margin-left: 6.8rem;
+}
+.container-3 h2{
+    font-size: 1.3rem;
+    color: white;
+    font-weight: 700;
+}
